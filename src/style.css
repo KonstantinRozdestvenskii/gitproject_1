@@ -15,4 +15,5 @@ div {
     background: white;
     padding: 20px;
     text-align: center;
+    font-style: italic; /*второй пользователь*/
 }
