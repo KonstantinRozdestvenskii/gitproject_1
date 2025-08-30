@@ -5,15 +5,8 @@
 
 h1 {
     color: green;
-    background: yellow;
-    font-weight: bold;
-    font-size: 45px;
-    padding: 10px;
 }
 
 div {
     background: white;
-    padding: 20px;
-    text-align: center;
-    font-style: italic; /*второй пользователь*/
 }
